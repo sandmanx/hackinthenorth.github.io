@@ -1,7 +1,7 @@
 var projects = {
-	"demo":{
+	"Proxy-Guru":{
 		"image":"images/1.png",
 		"team":"hitn team",
-		"link":"https://github.com/HackInTheNorth/hackinthenorth.github.io"
+		"link":"https://github.com/sandmanx/Proxy-Guru.git"
 	}
 }
